@@ -1,0 +1,119 @@
+AccountID: 100001
+Name: Alice Johnson
+AccountType: Savings
+Balance: 4520.75
+PIN: 4821
+
+AccountID: 100002
+Name: Michael Rodriguez
+AccountType: Checking
+Balance: 1290.10
+PIN: 9033
+
+AccountID: 100003
+Name: Priya Shah
+AccountType: Savings
+Balance: 8920.55
+PIN: 2218
+
+AccountID: 100004
+Name: David Thompson
+AccountType: Checking
+Balance: 320.00
+PIN: 7724
+
+AccountID: 100005
+Name: Emma Williams
+AccountType: Savings
+Balance: 15040.90
+PIN: 6145
+
+AccountID: 100006
+Name: Hiro Tanaka
+AccountType: Checking
+Balance: 244.67
+PIN: 5502
+
+AccountID: 100007
+Name: Sofia Garcia
+AccountType: Savings
+Balance: 785.22
+PIN: 1919
+
+AccountID: 100008
+Name: Lucas Brown
+AccountType: Checking
+Balance: 6043.33
+PIN: 3308
+
+AccountID: 100009
+Name: Maria Rossi
+AccountType: Savings
+Balance: 22200.10
+PIN: 4988
+
+AccountID: 100010
+Name: Ethan Davis
+AccountType: Checking
+Balance: 120.90
+PIN: 7290
+
+AccountID: 100011
+Name: Noor Al-Masri
+AccountType: Savings
+Balance: 11340.00
+PIN: 6671
+
+AccountID: 100012
+Name: Benjamin Clark
+AccountType: Checking
+Balance: 4109.45
+PIN: 8820
+
+AccountID: 100013
+Name: Isabella Nguyen
+AccountType: Savings
+Balance: 504.12
+PIN: 4423
+
+AccountID: 100014
+Name: Gabriel Martinez
+AccountType: Checking
+Balance: 19550.30
+PIN: 2004
+
+AccountID: 100015
+Name: Chloe Anderson
+AccountType: Savings
+Balance: 3240.22
+PIN: 1540
+
+AccountID: 100016
+Name: Amir Hassan
+AccountType: Checking
+Balance: 987.77
+PIN: 3792
+
+AccountID: 100017
+Name: Olivia Scott
+AccountType: Savings
+Balance: 890.55
+PIN: 5128
+
+AccountID: 100018
+Name: Liam Walker
+AccountType: Checking
+Balance: 7044.10
+PIN: 6083
+
+AccountID: 100019
+Name: Hanna Müller
+AccountType: Savings
+Balance: 13400.50
+PIN: 2311
+
+AccountID: 100020
+Name: Carlos Mendes
+AccountType: Checking
+Balance: 2449.89
+PIN: 7416

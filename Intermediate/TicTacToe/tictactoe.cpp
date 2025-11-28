@@ -27,7 +27,7 @@ int isAllowed(int row,int column, char board[3][3]){
     if(board[row][column] == '-'){
         return 1;
     }
-    cout << "Invalid Position";
+    cout << "Invalid Position" << endl;
     return 0;
 }
 
@@ -78,7 +78,7 @@ int main(){
     while(inplay){
         int row = getrow();
         int column = getcolumn();
-        if(isAllowed(row,column,board) == 0){
+        if(isAllowed(row,column,board) == 1){
             board[row][column] = turn;
             numturns++;
             displayboard(board);
@@ -93,8 +93,5 @@ int main(){
         }
         turn = changeturn(turn);
     }
-    
-    
-    
     return 0;
 }
